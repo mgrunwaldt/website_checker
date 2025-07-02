@@ -1,0 +1,8 @@
+Company Name,url principal,Email,Description
+Google,https://google.com,contact@google.com,Search engine
+GitHub,https://github.com,support@github.com,Code repository
+Invalid Site,http://this-website-does-not-exist-12345.com,test@invalid.com,This should fail
+Facebook,https://facebook.com,help@facebook.com,Social network
+Bad URL,http://definitely-not-a-real-website-999.xyz,fake@email.com,Another invalid URL
+Stack Overflow,https://stackoverflow.com,team@stackoverflow.com,Programming Q&A
+YouTube,https://youtube.com,support@youtube.com,Video platform 
