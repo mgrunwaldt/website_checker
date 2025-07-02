@@ -1,4 +1,4 @@
-# Excel URL Validator 📊
+# Website Checker - Excel URL Validator 📊
 
 A modern web application that allows you to upload Excel files, automatically extract URLs from all cells, validate their accessibility, and download organized results with separate tabs for valid and invalid URLs.
 
@@ -38,8 +38,8 @@ A modern web application that allows you to upload Excel files, automatically ex
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd excel-url-validator
+   git clone https://github.com/mgrunwaldt/website_checker.git
+   cd website_checker
    ```
 
 2. **Install all dependencies**
